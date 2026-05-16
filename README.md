@@ -1,12 +1,12 @@
-## Hello, I am Muhammed R. 👋
+## Hello, I'm Muhammed R. 👋
 
-I am a student at KTH Royal Institute of Technology in Sweden 🇸🇪, where I am pursuing a **Degree of Master of Science in Engineering, Computer Science and Engineering** (Swedish: *Civilingenjörsexamen i datateknik*).
-What this means is that I am studying a five-year programme that consists of a Bachelor's degree (first three years) and a Master's degree (final two years).
+I'm a student at KTH Royal Institute of Technology in Sweden 🇸🇪, where I'm pursuing a **MSc in Computer Science and Engineering** (Swedish: *Civilingenjörsexamen i datateknik*) as part of a five-year degree programme (3-year BSc + 2-year MSc). I'm currently a second year student, meaning that I'll hopefully finish my BSc in about a year.
 
-My primary interests are theoretical computer science, especially computational complexity theory, and mathematics. Recently, I have also become interested in cryptography, mostly because I want to play more CTFs 🏳️.
+My interests include mathematics and theoretical computer science, especially complexity and automata theory.
 
 #### Miscellaneous Information
 - I am a raspberry enthusiast (reject 🍓).
-- I despise web 🌐 development (JavaScript in particular).
-- Preferred programming languages: C, and Julia.
-- Languages I am interested in picking up: Haskell, Rust, and x86 Assembly.
+- I sometimes play CTFs 🚩. My main category is reverse engineering, but I'm planning to learn cryptography too.
+- My favourite result in theoretical computer science is the [Curry-Howard isomorphism](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence).
+- Preferred programming languages: C, Rust and Haskell. (Depending on what I'm doing.)
+- Languages I am interested in picking up: Common Lisp or Scheme, OCaml, and x86 Assembly. Maybe also eZ80 Assembly.
